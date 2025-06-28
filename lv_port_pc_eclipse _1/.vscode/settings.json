@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "sdl.h": "c",
+        "cjson.h": "c",
+        "curl.h": "c",
+        "lv_style.h": "c",
+        "lv_msg.h": "c"
+    }
+}
